@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @samchristoph
-- 👀 I’m interested in PROGRAMMING!
-- 🌱 I’m currently learning PROGRAMMING!
-- 💞️ I’m looking to collaborate on PROGRAMMING!
-- 📫 Reach me at PROGRAMMING!
-
-<!---
-samchristoph/samchristoph is a ✨ special ✨ repository because its `README.md` (this file) appears on PROGRAMMING!
---->
+- 👋 Hi, I’m Sam Christopher!
+- 👀 I’m interested in TELLIGENCE!
+- 🌱 I’m currently learning LOTS!
+- 💞️ I’m looking to collaborate on COOL THINGS!
+- 📫 Reach me at EMAIL?
