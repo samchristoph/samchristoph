@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sam Christopher!
+- 👋 Hi, I’m Sam!
 - 👀 I’m interested in TELLIGENCE!
 - 🌱 I’m currently learning LOTS!
 - 💞️ I’m looking to collaborate on COOL THINGS!
